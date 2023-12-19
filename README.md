@@ -1,7 +1,7 @@
 # Home
 
 <div align="center">
-  <img src="/perfil.png" alt="Níck's profile picture" width="100" height="100">
+  <img src="/perfil.png" alt="Níck's profile picture" width="200" height="200">
 </div>
 
 I work as a research assistant in the Quantum Field Theory and Gravitation Group, with some big interest in the interface between Quantum Information and Gravitation.  
